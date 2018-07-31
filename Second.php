@@ -1,6 +1,6 @@
 <?php
 
-namespace zyq\again;
+namespace icequeen\again;
 class Second
 {
     public static function doOne()
