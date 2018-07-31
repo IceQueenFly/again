@@ -1,7 +1,8 @@
 {
     "name": "icequeen/again",
     "description": "again test",
-    "type": "library",
+    "type": "yii2-extension",
+    "homepage": "https://github.com/IceQueenFly/again",
     "license": "MIT",
     "authors": [
         {
