@@ -1,5 +1,5 @@
 {
-    "name": "zyq/again",
+    "name": "icequeen/again",
     "description": "again test",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "zyq\\again\\": ""
+            "icequeen\\again\\": ""
         }
     }
 }

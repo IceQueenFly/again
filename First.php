@@ -1,6 +1,6 @@
 <?php
 
-namespace zyq\again;
+namespace icequeen\again;
 class First
 {
     public static function doFirst()
